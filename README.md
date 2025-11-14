@@ -100,3 +100,7 @@ To enhance this project further, I could:
 * Try other boosting algorithms
 * Deploy the model using Flask or Streamlit
 * Add a dashboard for interactive visualization
+
+**Ashesh Bhattarai**
+@ 2025 Ashesh Bhattarai
+This project is owned and created by me.
